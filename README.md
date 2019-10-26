@@ -1,5 +1,8 @@
 # list_view_9
 
+<img width="222" alt="Screenshot at Oct 26 15-16-37" src="https://user-images.githubusercontent.com/40392114/67616530-28d33a00-f804-11e9-9e48-d6c1ff8a21a7.png">
+<img width="222" alt="Screenshot at Oct 26 15-17-20" src="https://user-images.githubusercontent.com/40392114/67616531-28d33a00-f804-11e9-92d5-cd1f23178cfd.png">
+
 A new Flutter project.
 
 ## Getting Started
